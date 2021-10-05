@@ -33,3 +33,7 @@ Il suffit maintenant de bien utiliser les librairies requests et BeautifulSoup. 
 ![Capture1](https://user-images.githubusercontent.com/57575311/136000654-93b04fab-39f2-4c04-bddc-c41c10f49462.PNG)
   
 ## Les étapes suivantes sont décrites dans le code. Au travail !
+
+Si vous êtes intéressé par la Data, l'Automatisation, Python ou le Product Analytics, je vous invite à jeter un coup d'oeil à nos formations sur le sujet :
+https://www.emil.school/programmes
+
