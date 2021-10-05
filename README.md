@@ -1,8 +1,14 @@
 # Example de scraping avec Python et BeautifulSoup
 
-## L'objectif est de scraper des informations sur Studyrama.com 
-
 _Mis à jour le 05/10/2021_ 
+
+## !!! ATTENTION !!!
+
+Le scraping n'est pas clairement définit comme légal. Il est de votre responsabilité de lire les conditions d'utilisations des sites web qui vous intéressent. 
+
+Nous vous conseillons de ne scraper que des données que po
+
+## L'objectif est de scraper des informations sur Studyrama.com 
 
 On veut récupérer des informations sur les écoles d'ingénieurs en informatique en France (nom, privée/public, emails, site web). 
 
