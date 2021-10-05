@@ -34,6 +34,7 @@ Il suffit maintenant de bien utiliser les librairies requests et BeautifulSoup. 
   
 ## Les étapes suivantes sont décrites dans le code. Au travail !
 
-Si vous êtes intéressé par la Data, l'Automatisation, Python ou le Product Analytics, je vous invite à jeter un coup d'oeil à nos formations sur le sujet :
+**Aussi :** si vous êtes intéressé par la [Data](https://www.emil.school/programmes/data-for-pro), [l'Automatisation](https://www.emil.school/programmes/marketing-and-data-automation), [Python et le machine learning](https://www.emil.school/programmes/python-machine-learning) ou le [Product Analytics](https://www.emil.school/programmes/tracking-product-analytics), je vous invite à jeter un coup d'oeil à nos formations sur le sujet :
+  
 https://www.emil.school/programmes
 
