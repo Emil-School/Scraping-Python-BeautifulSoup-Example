@@ -41,7 +41,7 @@ for num_page in range(1,9):
     for block in a:
 
         # On récupère le nom de l'école
-        nom_ecole.append(block.find("h3",class_="center").string)
+        nom_ecole.append(block.find("h3").string)
 
         # On récupère le lien vers la fiche de l'école sur studyrama
         lien_fiche_ecole.append(block.get("href"))
