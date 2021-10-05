@@ -1,4 +1,4 @@
-# Example: Scraping avec Python et BeautifulSoup
+# Example de scraping avec Python et BeautifulSoup
 
 ## L'objectif est de scraper des informations sur Studyrama.com 
 
