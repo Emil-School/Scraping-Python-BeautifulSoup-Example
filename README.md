@@ -4,9 +4,9 @@ _Mis à jour le 05/10/2021_
 
 ## !!! ATTENTION !!!
 
-Le scraping n'est pas clairement définit comme légal. Il est de votre responsabilité de lire les conditions d'utilisations des sites web qui vous intéressent. 
+La législation sur le scraping n'est pas claire. Il est de votre responsabilité de lire les conditions d'utilisations des sites web qui vous intéressent. 
 
-Nous vous conseillons de ne scraper que des données que po
+Nous vous conseillons de ne pas scraper des données personnelles et de ne rien divulguer.
 
 ## L'objectif est de scraper des informations sur Studyrama.com 
 
